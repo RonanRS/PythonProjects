@@ -4,4 +4,4 @@ First python project
 
 Tic Tac Toe
 
-Test git automate
+Testando sync git
