@@ -4,4 +4,4 @@ First python project
 
 Tic Tac Toe
 
-Testando sync git
+New sync test
