@@ -210,7 +210,6 @@ play_game()
 
 
 
-# --------------Scheme--------------
 # board
 # display board
 # play game
