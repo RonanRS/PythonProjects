@@ -9,3 +9,5 @@ New sync test
 Git running clean
 
 Testing short log commit
+
+New sync test
