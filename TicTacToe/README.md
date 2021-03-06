@@ -11,3 +11,6 @@ Git running clean
 Testing short log commit
 
 New sync test
+
+
+#Testing the git in Ubuntu.
